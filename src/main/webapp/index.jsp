@@ -89,7 +89,7 @@ h1{
     
     <section id="home">
         <header>
-            <span style="font-size:64px;margin-right:10px;color:cyan">javeed-website-Site</span>
+            <span style="font-size:64px;margin-right:10px;color:cyan">Ecommerce-website-Site</span>
             <ul id="menu">
                 <li><a href="#home">Home</a></li>
                 <li><a href="#about">About Us</a></li>
@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>Welcome to javeed-ecommerce</h1>
+         <h1>Welcome to Ecommerce-Website</h1>
     </section>    
     <section id="about"><h1>This Is About</h1></section>
     <section id="product"><h1>This Is Product</h1></section>
